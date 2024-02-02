@@ -1,4 +1,4 @@
-# Past-Projects
+# Past Projects
 This is a compilation of some of the past projects and notes I have taken for programming in various languages. My most recent works are on the bottom of the list, while my oldest works are on the top.
 
 1) Notes in Python: Old Python.py is the first set of notes that I took for Python during my sophomore year in high school, which was the time I first started getting into programming. Python.py is the second set of notes that I later took during a college course to refresh my skills in Python. The funny part of these notes is that I learned Python while coding in Python.
