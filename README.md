@@ -23,6 +23,6 @@ This is a compilation of some of the past projects and notes I have taken for pr
 
 11) Computing Matching Tokens Python: For this project, I was assigned to create various programs that ran through command line arguments. PartA.py consists of a function that tokenizes a text file, a function that maps each token to their frequencies in the text file, and a function that prints out the tokens with their corresponding frequencies. PartB.py consists of a function that returns the number of tokens that two files share, utilizing some of the functions from PartA.py.
 
-12) Spotify API Typescript & Angular: In this assignment, I had to gather data from the Spotify API, develop a frontend interface with Angular, and make HTTP requests to a backend server to trigger API calls. The app itself provides a browser for users to browse music on Spotify.
+12) Spotify API TS & Angular (File too Big): In this assignment, I had to gather data from the Spotify API, develop a frontend interface with Angular, and make HTTP requests to a backend server to trigger API calls. The app itself provides a browser for users to browse music on Spotify.
 
-13) Sleep Tracker Typescript & Ionic: This project involved creating a sleep tracker app that tracks the periods of sleep a user had and how they felt during the day. A demo video of how to use the app can be found inside as well, being named "Demo.mp4".
+13) Sleep Tracker TS & Ionic (File too Big): This project involved creating a sleep tracker app that tracks the periods of sleep a user had and how they felt during the day. A demo video of how to use the app can be found inside as well, being named "Demo.mp4".
