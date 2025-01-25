@@ -25,7 +25,7 @@ This is a compilation of some of the past projects and notes I have taken for pr
 
 12) Spotify API TS & Angular (File too Big): In this assignment, I had to gather data from the Spotify API, develop a frontend interface with Angular, and make HTTP requests to a backend server to trigger API calls. The app itself provides a browser for users to browse music on Spotify.
 
-13) Sleep Tracker TS & Ionic (File too Big): This project involved creating a sleep tracker app that tracks the periods of sleep a user had and how they felt during the day. A demo video of how to use the app can be found in this repository, being named "Sleep Tracker Demo.mp4".
+13) Sleep Tracker TS & Ionic (File too Big): This project involved creating a sleep tracker app that tracks the periods of sleep a user had and how they felt during the day. A demo video of how to use the app can be found in the project as well, being named "Demo.mp4".
 
 14) Search Engine Python: After learning about concepts in web information retrieval, I was able to create a search engine that involved tokenizing, text processing, stemming, relevance ranking, offloading/dividing data, merging data, extracting important page content, indexing, searching, finding shared documents of query terms, and outputting top 5 search results. To actually operate this search engine, indexer.py has to be ran with a corpus (folder of data) named "developer". After a long time of indexing, search.py can then be used to search for the top 5 results of user-inputted queries.
 
