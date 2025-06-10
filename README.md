@@ -27,7 +27,7 @@ This is a compilation of some of the past projects and notes I have taken for pr
 
 13) Sleep Tracker TS & Ionic: This project involved creating a sleep tracker app that tracks the periods of sleep a user had and how they felt during the day. A demo video of how to use the app can be found in the project, being named "Demo.mp4". The video can be found within this repository as well.
 
-14) To-Do List App React: This project involved creating a to-do list app that included functionalities such as a signup/login/logout feature, creating tasks, editing tasks, deleting tasks, reordering tasks, and searching up tasks by username. Here is the link to a copy of the project repository: https://github.com/ewtruong1234/To-Do-List-App
+14) To-Do List App React: This project involved creating a to-do list app that included functionalities such as a signup/login/logout feature, creating tasks, editing tasks, deleting tasks, reordering tasks, and searching up tasks by username. Includes a demo video, live server, and project report. Here is the link to a copy of the project repository: https://github.com/ewtruong1234/To-Do-List-App
 
 15) Search Engine Python: After learning about concepts in web information retrieval, I was able to create a search engine that involved tokenizing, text processing, stemming, relevance ranking, offloading/dividing data, merging data, extracting important page content, indexing, searching, finding shared documents of query terms, and outputting top 5 search results. To actually operate this search engine, indexer.py has to be ran with a corpus (folder of data) named "developer". After a long time of indexing, search.py can then be used to search for the top 5 results of user-inputted queries.
 
