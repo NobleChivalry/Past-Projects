@@ -25,7 +25,7 @@ This is a compilation of some of the past projects and notes I have taken for pr
 
 12) Spotify API TS & Angular: In this assignment, I had to gather data from the Spotify API, develop a frontend interface with Angular, and make HTTP requests to a backend server to trigger API calls. The app itself provides a browser for users to browse music on Spotify.
 
-13) Sleep Tracker TS & Ionic: This project involved creating a sleep tracker app that tracks the periods of sleep a user had and how they felt during the day. A demo video of how to use the app can be found in the project, being named "Demo.mp4". The video can be found within this repository as well.
+13) Sleep Tracker TS & Ionic: This project involved creating a sleep tracker app that tracks the periods of sleep a user had and how they felt during the day. The demo video of how to use the app can be found in this repository, being named "Demo.mp4". Here is the link to the repository: https://github.com/ewtruong1234/Sleep-Tracker/tree/main
 
 14) To-Do List App React: This project involved creating a to-do list app that included functionalities such as a signup/login/logout feature, creating tasks, editing tasks, deleting tasks, reordering tasks, and searching up tasks by username. Includes a demo video, live server, and project report. Here is the link to a copy of the project repository: https://github.com/ewtruong1234/To-Do-List-App
 
